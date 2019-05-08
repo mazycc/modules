@@ -1,0 +1,4 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /demo   #用来配置虚拟地址
